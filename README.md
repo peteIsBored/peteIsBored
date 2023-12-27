@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peteIsBored
 - 👀 I’m interested in online games
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Java, C#, React, MySQL
+- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Java, C#, React, MySQL, Arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
