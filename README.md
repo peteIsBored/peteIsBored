@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter
 - 👀 I’m interested in online games
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Java, C#, React, MySQL, Arduino
+- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Python, React.js, MySQL, Arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
